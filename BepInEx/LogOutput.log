@@ -1,0 +1,915 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (10.02.2024 22:28:54)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 52 plugins to load
+[Info   :   BepInEx] Loading [JigglePhysicsPlugin 1.1.2]
+[Info   :JigglePhysicsPlugin] JigglePhysicsPlugin loaded!
+[Info   :   BepInEx] Loading [RechargeRedux 1.0.0]
+[Info   :RechargeRedux] Setting RechargePaint to True
+[Info   :RechargeRedux] Setting RechargeTZP to True
+[Info   :RechargeRedux] Applying all patches
+[Info   :   BepInEx] Loading [LethalConfig 1.3.4]
+[Info   :ainavt.lc.lethalconfig] Finished loading assets.
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Int Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Step Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Bool Checkbox"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Enum Dropdown"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Text Input"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig.ConfigItems.GenericButtonConfigItem"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Int Input"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Input"
+[Info   :ainavt.lc.lethalconfig] LethalConfig loaded!
+[Info   :   BepInEx] Loading [BiggerLobby 2.7.0]
+[Info   :BiggerLobby] BiggerLobby loaded
+[Info   :   BepInEx] Loading [CameraCullingIncrease 1.0.0]
+[Info   :CameraCullingIncrease] Applying patch...
+[Info   :CameraCullingIncrease] View distance adjusted!
+[Info   :   BepInEx] Loading [LethalExpansion(core) 1.3.15]
+[Info   :LethalExpansion(core)] Plugin: LethalExpansion(core) (version: 1.3.15) is loading...
+[Info   :LethalExpansion(core)] LethalExpansion is not present, all is well!
+[Info   :LethalExpansion(core)] Plugins folder found: E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins
+[Info   :LethalExpansion(core)] Mod path is: E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins
+[Warning:LethalExpansion(core)] LethalExpansion is Rooting the Plugins folder, this is not recommended. E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins
+[Info   :LethalExpansion(core)] Module 'ImmersiveScraps' v1.3.0.0 was loaded in 759ms
+[Info   :LethalExpansion(core)] Water support applied to the HDRenderPipelineAsset.
+[Info   :LethalExpansion(core)] Plugin: LethalExpansion(core) (version: 1.3.15) is loaded.
+[Info   :   BepInEx] Loading [ShipLobby 1.0.2]
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.6.3]
+[Info   :Lethal Company Input Utils] Registered InputUtilsExtendedMouse Layout Override!
+[Info   :Lethal Company Input Utils] InputUtils 0.6.3 has finished loading!
+[Info   :   BepInEx] Loading [Custom Sounds 2.3.2]
+[Info   :CustomSounds] "HideManagerGameObject" is correctly set to true.
+[Info   :CustomSounds] Plugin CustomSounds is loaded!
+[Info   :   BepInEx] Loading [TooManyEmotes 1.9.1]
+[Info   :TooManyEmotes-1.9.1] BindingConfigs
+[Info   :TooManyEmotes-1.9.1] Cleaning old config entries
+[Info   :TooManyEmotes-1.9.1] Initializing custom emote hotkeys.
+[Info   :TooManyEmotes-1.9.1] Successfully loaded 20 animation clips from asset bundle: Assets/emotes_complementary
+[Info   :TooManyEmotes-1.9.1] Successfully loaded 78 animation clips from asset bundle: Assets/emotes_0
+[Info   :TooManyEmotes-1.9.1] Successfully loaded 85 animation clips from asset bundle: Assets/emotes_1
+[Info   :TooManyEmotes-1.9.1] Successfully loaded 71 animation clips from asset bundle: Assets/emotes_2
+[Info   :TooManyEmotes-1.9.1] Successfully loaded 2 animation clips from asset bundle: Assets/emotes_3
+[Info   :TooManyEmotes-1.9.1] Successfully loaded radial menu asset.
+[Info   :TooManyEmotes-1.9.1] TooManyEmotes loaded
+[Info   :   BepInEx] Loading [ModelReplacementAPI 2.3.7]
+[Info   :   BepInEx] Loading [More Suits 1.4.1]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Info   :   BepInEx] Loading [45x Anime Models 0.1.8]
+[Info   :45x Anime Models] Loading Plugin: dev.45x.45xanimemodels
+[Info   :   Console] 45x_Anime_Models.modelBundle
+[Info   :45x Anime Models] Registered model: Tohka
+[Info   :45x Anime Models] Registered model: Kurumi
+[Info   :45x Anime Models] Registered model: Kurumi [Uniform]
+[Info   :45x Anime Models] Registered model: Kurumi [Astral Dress]
+[Info   :45x Anime Models] Registered model: Neptune
+[Info   :45x Anime Models] Registered model: Neptune [HDD]
+[Info   :45x Anime Models] Registered model: Mostima
+[Info   :45x Anime Models] Registered model: Groza
+[Info   :45x Anime Models] Registered model: Zero Two
+[Info   :45x Anime Models] Plugin dev.45x.45xanimemodels is loaded! Took 468ms
+[Info   :   BepInEx] Loading [LC Sound Tool 1.5.1]
+[Info   :LCSoundTool] Plugin LCSoundTool is loaded!
+[Info   :   BepInEx] Loading [DoomShotgun 1.0.0]
+[Warning:LCSoundTool] Requested directory at BepInEx/Plugins/SpyPlayer-DoomShotgun does not exist!
+[Warning:LCSoundTool] Requested audio file does not exist at path E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\SpyPlayer-DoomShotgun\doom.wav!
+[Warning:LCSoundTool] Requested audio file does not exist at mod root path E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\SpyPlayer-DoomShotgun\doom.wav!
+[Warning:LCSoundTool] Legacy path contains the requested audio file at path E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\doom.wav!
+[Info   :   BepInEx] Loading [Staryuceleste Ship Audio Replacement 1.0.0]
+[Info   :Elliot.ShipAudioReplacement] ShipAudioModBase awake called
+[Info   :Staryuceleste Ship Audio Replacement] Loaded asset bundle ShipAudioReplacement staryuceleste
+[Info   :   BepInEx] Loading [LethalLib 0.14.2]
+[Info   : LethalLib] LethalLib loaded!!
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 1.8.17]
+[Info   :ReservedItemSlotCore-1.8.17] BindingConfigs
+[Info   :ReservedItemSlotCore-1.8.17] Cleaning old config entries
+[Info   :ReservedItemSlotCore-1.8.17] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [LethalThings 0.9.4]
+[Info   :LethalThings] LethalLib version is 0.14.2, which is compatible with LethalThings 0.9.0+
+[Info   :LethalThings] [Optional dependency] LethalCompanyInputUtils version is 0.6.3, which is compatible with LethalThings 0.8.0+
+[Info   :LethalThings] [Compatibility] ReservedItemSlotCore version is 1.8.17, which is compatible with LethalThings 0.8.0+
+[Info   : LethalLib] [LethalLib] LethalThings is registering 26 content items!
+[Info   :LethalThings] LethalThings loaded successfully!!!
+[Info   :   BepInEx] Loading [RuntimeNetcodeRPCValidator 0.2.5]
+[Info   :   BepInEx] Loading [ExtraDaysToDeadline 2.2.1]
+[Info   :RuntimeNetcodeRPCValidator] Patched 3 ServerRPCs & 3 ClientRPCs on NetworkBehaviour Networking.
+[Info   :RuntimeNetcodeRPCValidator] Successfully registered first patch for type Terminal.Awake | Triggered by ExtraDaysToDeadline
+[Info   :ExtraDaysToDeadline] ExtraDaysToDeadline is loading...
+[Info   :ExtraDaysToDeadline] Installing patches
+[Info   :ExtraDaysToDeadline] Registering built-in Commands
+[Info   :ExtraDaysToDeadline] There are 1 save files
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 1/Use price correlated calculation?"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 1/Setup extra day price"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 1/Use reduce buying rate?"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 2/Use price correlated calculation?"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 2/Setup extra day price"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 2/Use reduce buying rate?"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 3/Use price correlated calculation?"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 3/Setup extra day price"
+[Info   :ainavt.lc.lethalconfig] Registered config "ExtraDaysToDeadline/Save File 3/Use reduce buying rate?"
+[Info   :ExtraDaysToDeadline] Plugin ExtraDaysToDeadline is loaded!
+[Info   :   BepInEx] Loading [ReservedFlashlightSlot 1.6.3]
+[Info   :ReservedFlashlightSlot-1.6.3] BindingConfigs
+[Info   :ReservedFlashlightSlot-1.6.3] Cleaning old config entries
+[Info   :ReservedFlashlightSlot-1.6.3] ReservedFlashlightSlot loaded
+[Info   :   BepInEx] Loading [ReservedWalkieSlot 1.6.2]
+[Info   :ReservedWalkieSlot-1.6.2] BindingConfigs
+[Info   :ReservedWalkieSlot-1.6.2] Cleaning old config entries
+[Info   :ReservedWalkieSlot-1.6.2] ReservedWalkieSlot loaded
+[Info   :   BepInEx] Loading [ReservedWeaponSlot 1.0.8]
+[Info   :ReservedWeaponSlot-1.0.8] BindingConfigs
+[Info   :ReservedWeaponSlot-1.0.8] ReservedWeaponSlot loaded
+[Info   :   BepInEx] Loading [XUnity Auto Translator 5.3.0]
+[Info   :XUnity.AutoTranslator] Version of TextMesh Pro: 1.4.0.
+[Warning:  HarmonyX] AccessTools.Method: Could not find method for type TMPro.TMP_Text and name SetCharArray and parameters (int[], int, int)
+[Warning:XUnity.AutoTranslator] Could not hook 'TMP_Text_SetCharArray_Hook3'. Likely due differences between different versions of the engine or text framework.
+[Info   :XUnity.AutoTranslator] Loaded XUnity.AutoTranslator into Unity [2022.3.9f1] game.
+[Info   :   BepInEx] Loading [XUnity Resource Redirector 2.1.0]
+[Info   :   BepInEx] Loading [LethalLevelLoader 1.1.0.6]
+[Info   :LethalLevelLoader] LethalLevelLoader loaded!!
+[Info   :   BepInEx] Loading [Scarlet Mansion 1.2.11]
+[Info   :ImoutoSama.ScarletMansion] Plugin Scarlet Mansion has been added!
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for size multiplier
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for size multiplier
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for main path length
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for main path length
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for section one count
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for section one count
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for section one depth
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for section one depth
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for section two count
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for section two count
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for section two depth
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for section two depth
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for section three count
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for section three count
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for section three depth
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for section three depth
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for painting extra loot
+[Info   :ImoutoSama.ScarletMansion] Verifying min/max for painting extra loot
+[Info   :ImoutoSama.ScarletMansion] Verifying lightsSpawn Zero/One/Two values
+[Info   :ImoutoSama.ScarletMansion] Verifying lightsSpawn Zero/One/Two values
+[Info   :ImoutoSama.ScarletMansion] Verifying lightsSpawn Zero/One/Two values
+[Info   :ImoutoSama.ScarletMansion] Updating config values with preset Default
+[Info   :ImoutoSama.ScarletMansion] Updating config values with preset Default
+[Info   :ImoutoSama.ScarletMansion] Detected that ainavt.lc.lethalconfig is loaded
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/_Presets/Preset Dungeon Generation"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/_Presets/Preset Dungeon Lighting"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Dungeon Weight/SDM Rend/Dine Weight"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Dungeon Weight/SDM Titan Weight"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Dungeon Weight/Custom Moons"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Dungeon Weight/Custom Moons Weight"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Dungeon Generation/Size Multiplier Min"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Dungeon Generation/Size Multiplier Max"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Bounding Box/Width Base"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Bounding Box/Length Base"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Bounding Box/Width Multiplier Factor"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Bounding Box/Length Multiplier Factor"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Main Path/Main Path Count"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Main Path/Main Path Length Min"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Main Path/Main Path Length Max"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Branching Path 1/Section 1 Count Min"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Branching Path 1/Section 1 Count Max"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Branching Path 1/Section 1 Depth Min"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Branching Path 1/Section 1 Depth Max"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Branching Path 2/Section 2 Count Min"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Branching Path 2/Section 2 Count Max"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Branching Path 2/Section 2 Depth Min"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Branching Path 2/Section 2 Depth Max"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Branching Path 3/Section 3 Count Min"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Branching Path 3/Section 3 Count Max"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Branching Path 3/Section 3 Depth Min"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/DunGen Branching Path 3/Section 3 Depth Max"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Dungeon Loot/Loot Multiplier"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Dungeon Loot/Painting Count"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Dungeon Loot/Painting Extra Loot Min"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Dungeon Loot/Painting Extra Loot Max"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Dungeon Enemies/Map Hazards Multiplier"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Dungeon Enemies/Minimum Indoor Enemy Spawn Count"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Lighting/Hallway Lights Weight"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Lighting/Chandelier Lights Weight"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Lighting/0 Lights Weight"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Lighting/1 Light Weight"
+[Info   :ainavt.lc.lethalconfig] Registered config "Scarlet Mansion/Lighting/2 Lights Weight"
+[Info   :ImoutoSama.ScarletMansion] SyncVentSpawnTimeClientRpc could inject Enemies 1 time(s)
+[Info   :ImoutoSama.ScarletMansion] AssignRandomEnemyToVent could inject Enemies 10 time(s)
+[Info   :ImoutoSama.ScarletMansion] EnemyCannotBeSpawned could inject Enemies 4 time(s)
+[Info   :ImoutoSama.ScarletMansion] ResetEnemyTypesSpawnedCounts could inject Enemies 4 time(s)
+[Info   :ImoutoSama.ScarletMansion] SetChallengeFileRandomModifiersEnemy could inject Enemies 3 time(s)
+[Info   :ImoutoSama.ScarletMansion] SetChallengeFileRandomModifiersItem could inject Items 1 time(s)
+[Info   :ImoutoSama.ScarletMansion] SpawnEnemyGameObject could inject Enemies 3 time(s)
+[Info   :ImoutoSama.ScarletMansion] GiftBoxItem could inject Items 5 time(s)
+[Info   :ImoutoSama.ScarletMansion] SpawnScrapInLevel could inject Items 4 time(s)
+[Info   :ImoutoSama.ScarletMansion] Loading asset SDMLevel
+[Info   :ImoutoSama.ScarletMansion] Loading asset SDMList
+[Info   :ImoutoSama.ScarletMansion] Loading asset NET_KnightEnemy
+[Info   :ImoutoSama.ScarletMansion] Loading asset KnightNode
+[Info   :ImoutoSama.ScarletMansion] Loading asset KnightKeyword
+[Info   :   BepInEx] Loading [BetterTotalScrap 1.1.0]
+[Info   :   BepInEx] Loading [Blue Archive Playermodels 2.0.0]
+[Info   :   Console] BAModels.babundle
+[Info   :Blue Archive Playermodels] Plugin jos.BAModels is loaded!
+[Info   :   BepInEx] Loading [BoomboxController 1.2.2]
+[Info   :BoomboxController] 
+                                                                                                                                                                  
+`7MM"""Yp,                                   *MM                                 .g8"""bgd                  mm                   `7MM `7MM                  
+  MM    Yb                                    MM                               .dP'     `M                  MM                     MM   MM                  
+  MM    dP  ,pW"Wq.   ,pW"Wq.`7MMpMMMb.pMMMb. MM,dMMb.   ,pW"Wq.`7M'   `MF'    dM'       `,pW"Wq.`7MMpMMMbmmMMmm `7Mb,od8 ,pW"Wq.  MM   MM  .gP"Ya `7Mb,od8 
+  MM"""bg. 6W'   `Wb 6W'   `Wb MM    MM    MM MM    `Mb 6W'   `Wb `VA ,V'      MM        6W'   `Wb MM    MM MM     MM' "'6W'   `Wb MM   MM ,M'   Yb  MM' "' 
+  MM    `Y 8M     M8 8M     M8 MM    MM    MM MM     M8 8M     M8   XMX        MM.       8M     M8 MM    MM MM     MM    8M     M8 MM   MM 8M""""""  MM     
+  MM    ,9 YA.   ,A9 YA.   ,A9 MM    MM    MM MM.   ,M9 YA.   ,A9 ,V' VA.      `Mb.     ,YA.   ,A9 MM    MM MM     MM    YA.   ,A9 MM   MM YM.    ,  MM     
+.JMMmmmd9   `Ybmd9'   `Ybmd9'.JMML  JMML  JMMLP^YbmdP'   `Ybmd9'.AM.   .MA.      `"bmmmd' `Ybmd9'.JMML  JMML`Mbmo.JMML.   `Ybmd9'.JMML.JMML.`Mbmmd'.JMML.   
+                                                                                                                                                                  
+[Info   :   BepInEx] Loading [Lethal Company API 3.4.5]
+[Warning:Lethal Company API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :Lethal Company API] LC_API Starting up..
+[Info   :   BepInEx] Loading [LCFartLizards 1.2.1]
+[Info   :LCFartLizards] Plugin LCFartLizards is loaded!
+[Info   :LCFartLizards] Audio clip loaded successfully!
+[Info   :   BepInEx] Loading [LethalAPI.Terminal 1.0.0]
+[Info   :LethalAPI.Terminal] LethalAPI.Terminal is loading...
+[Info   :LethalAPI.Terminal] Installing patches
+[Info   :LethalAPI.Terminal] Registering built-in Commands
+[Info   :LethalAPI.Terminal] Plugin LethalAPI.Terminal is loaded!
+[Info   :   BepInEx] Loading [LethalClunk 1.1.1]
+[Info   :LethalClunk] Plugin LethalClunk is loaded!
+[Info   :   BepInEx] Loading [HealthMetrics 1.0.0]
+[Info   :Matsuura.HealthMetrics] HealthMetrics Awake
+[Info   :   BepInEx] Loading [Buyable Shotgun 1.0.4]
+[Info   :Buyable Shotgun] Shotgun added to Shop for 1 credits
+[Info   :Buyable Shotgun] Plugin Buyable Shotgun is loaded with version 1.0.4!
+[Info   :   BepInEx] Loading [Buyable Shotgun Shells 1.0.5]
+[Info   :Buyable Shotgun Shells] Shotgun Shell added to Shop for 1 credits
+[Info   :Buyable Shotgun Shells] Plugin Buyable Shotgun Shells is loaded with version 1.0.5!
+[Info   :   BepInEx] Loading [Clear First Person 1.0.0]
+[Info   :Clear First Person] ClearFirstPersonPlugin loaded.
+[Info   :   BepInEx] Loading [KillItWithShovel 1.0.0]
+[Info   :KillItWithShovel] Plugin MiffyL.KillItWithShovel is loaded!
+[Info   :   BepInEx] Loading [Health Station mod 1.0.0.1]
+[Info   :Octolar.Healthstation] Octolar HealthStation mod is now active
+[Info   :   BepInEx] Loading [WalkieUse 1.5.0]
+[Info   : WalkieUse] ------Walkie done.------
+[Info   : WalkieUse] Walkie in Terminal: False
+[Info   :   BepInEx] Loading [StrangerThingsMod 0.0.31]
+[Info   :StrangerThingsMod] Loaded asset bundle
+[Info   :StrangerThingsMod] Loaded content
+[Info   :StrangerThingsMod] Loaded Stranger Things Mod
+[Info   :   BepInEx] Loading [Scoopy's Variety Mod 1.2.0]
+[Info   :ScoopysVarietyMod] Successfully loaded WeezerGuitar (Item)
+[Info   :ScoopysVarietyMod] Successfully loaded FireAxe (Item)
+[Info   :ScoopysVarietyMod] Successfully loaded CrownItem (Item)
+[Info   :ScoopysVarietyMod] Custom Scrap Loaded Successfully
+[Info   :ScoopysVarietyMod] Registering flow CastleFlow with:
+dungeonRarity: 300
+dungeonMoons: vanilla
+guaranteeDungeon: False
+dungeonSizeMax: 2
+dungeonSizeMin:1
+[Info   :ScoopysVarietyMod] Registered CastleFlow dungeon interior on all vanilla moons with rarity300.
+[Info   :ScoopysVarietyMod] Registering flow SewerFlow with:
+dungeonRarity: 300
+dungeonMoons: vanilla
+guaranteeDungeon: False
+dungeonSizeMax: 2
+dungeonSizeMin:1
+[Info   :ScoopysVarietyMod] Registered SewerFlow dungeon interior on all vanilla moons with rarity300.
+[Info   :ScoopysVarietyMod] Initialised Successfully
+[Info   :   BepInEx] Loading [Scopophobia 1.1.1]
+[Info   :Scopophobia] Scopophobia | SCP-096 has entered the facility. All remaining personnel proceed with caution.
+[Info   :   BepInEx] Loading [RussianTranslateTerminal 1.0.0]
+[Info   :RussianTranslateTerminal] Plugin snowflake.plugin.russiantranslateterminal (RussianTranslateTerminal) is loaded!
+[Info   :   BepInEx] Loading [SolarMoneyBooster 1.0.0]
+[Info   :   BepInEx] Loading [Lethal Progression 1.3.2]
+[Info   :ImoutoSama.ScarletMansion] SpawnScrapInLevel could inject Items 4 time(s)
+[Info   :Lethal Progression] Lethal Progression loaded.
+[Info   :   BepInEx] Loading [Bonk Hit SFX 1.0.5]
+[Info   :sunnobunno.bonkhitsfx] sunnobunno.bonkhitsfx is loading.
+[Info   :sunnobunno.bonkhitsfx] sunnobunno.bonkhitsfx is loaded. Ow.
+[Info   :   BepInEx] Loading [Land Mine Fart Reverb 1.0.3]
+[Info   :sunnobunno.landminefartreverb] sunnobunno.landminefartreverb is loading.
+[Error  :sunnobunno.landminefartreverb] Failed to load audio assets!
+[Info   :   BepInEx] Loading [PortalTurrets 1.0.2]
+[Info   :PortalTurrets] Plugin walterman.plugins.portalturrets is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Info   :ReservedFlashlightSlot-1.6.3] Initializing hotkeys.
+[Info   :ReservedWalkieSlot-1.6.2] Initializing hotkeys.
+[Info   :ReservedWeaponSlot-1.0.8] Initializing hotkeys.
+[Info   :LethalLevelLoader] Finding LethalBundles!
+[Info   :LethalExpansion(core)] Loading scene 'InitSceneLaunchOptions'
+[Info   :Buyable Shotgun] Scene "InitSceneLaunchOptions" loaded with 2 mode.
+[Error  :Clear First Person] PlayerHUDHelmetModel not found in the scene.
+[Message:Lethal Company API] A plugin has set your game to only allow you to play with other people who have mods!
+[Warning:LCSoundTool] Networking disabled. Mod in fully client side mode, but no networked actions can take place! You can safely ignore this if you want the mod to run fully client side.
+[Info   :Lethal Company API] LC_API Started!
+[Warning:XUnity.AutoTranslator] Input API is not available!
+System.InvalidOperationException: You are trying to read Input using the UnityEngine.Input class, but you have switched active Input handling to Input System package in Player Settings.
+  at (wrapper managed-to-native) UnityEngine.Input.GetKeyInt(UnityEngine.KeyCode)
+  at UnityEngine.Input.GetKey (UnityEngine.KeyCode key) [0x00000] in <df0b83e2eec44b21a5c16dc79794fbcf>:IL_0000 
+  at XUnity.AutoTranslator.Plugin.Core.AutoTranslationPlugin.HandleInput () [0x00000] in <1a6ac5ec5b0a4c7096c6ff8454095a49>:IL_0000 
+  at XUnity.AutoTranslator.Plugin.Core.AutoTranslationPlugin.HandleInputSafe () [0x00007] in <1a6ac5ec5b0a4c7096c6ff8454095a49>:IL_0007 
+[Info   :LethalLevelLoader] Loading Custom Content From Bundle: celestria.lethalbundle
+[Info   :XUnity.AutoTranslator] Skipping plugin scan because no plugin-specific translations has been registered.
+[Info   :LethalLevelLoader] Loading Custom Content From Bundle: maritopia.lethalbundle
+[Info   :LethalLevelLoader] Loading Custom Content From Bundle: echoreach.lethalbundle
+[Info   :LethalLevelLoader] Loading Custom Content From Bundle: maritopiascene.lethalbundle
+[Info   :LethalLevelLoader] Loading Custom Content From Bundle: echoreachscene.lethalbundle
+[Info   :LethalLevelLoader] Loading Custom Content From Bundle: celestriascene.lethalbundle
+[Info   :LethalExpansion(core)] Unloading scene: InitSceneLaunchOptions
+[Error  : WalkieUse] Terminal Walkie: False
+[Info   :LethalExpansion(core)] Loading scene 'InitScene'
+[Info   :Buyable Shotgun] Scene "InitScene" loaded with Single mode.
+[Error  :Clear First Person] PlayerHUDHelmetModel not found in the scene.
+[Info   :LethalExpansion(core)] Registered prefab 'itemshipanimcontainer' from 'LethalExpansion'
+[Info   :LethalExpansion(core)] Registered scrap 'Wine bottle' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Traffic cone' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Fire hydrant' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Library lamp' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Suitcase' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Toaster' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Keyboard' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Fire extinguisher' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Fan' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Plant' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Bucket' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Plunger' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Clock' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Anvil' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Wrench' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Brick' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Jerrycan' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Fancy Painting' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Screwdriver' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Retro Toy' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Wheel' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Toolbox' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Watering Can' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Food can' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Fireaxe' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Baseball bat' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Beer can' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Can paint' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Sink' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Lantern' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Broken engine' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Vent' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Top hat' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Canteen' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Alcohol Flask' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Garbage' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Car battery' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Squeaky toy' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Gameboy' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Clamp' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Pliers' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Hammer' from 'ImmersiveScraps'
+[Info   :LethalExpansion(core)] Registered scrap 'Socket Wrench' from 'ImmersiveScraps'
+[Info   :LethalLevelLoader] Registering Bundle Content!
+[Info   :LethalLevelLoader] Automatically Restored The Following SpawnablePrefab's In SDMLevel: 
+[Info   :LethalLevelLoader] Automatically Registered The Following SpawnablePrefab's In SDMLevel: NET_NoDoor_Prefab, NET_Door180_Prefab, NET_SpawnEntranceB, NET_Painting_Remilia_Map, NET_EmptyDoorway_Prefab, NET_Door90_Prefab, NET_TrapVentEntrance, NET_SpawnEntranceA, 
+[Info   :LethalLevelLoader] Automatically Restored The Following SpawnablePrefab's In CastleFlow: VentEntrance, EntranceTeleportA, EntranceTeleportB, 
+[Info   :LethalLevelLoader] Automatically Registered The Following SpawnablePrefab's In CastleFlow: RoundWoodDoor, Crown, CellDoorFull, 
+[Info   :LethalLevelLoader] Automatically Restored The Following SpawnablePrefab's In SewerFlow: VentEntrance, EntranceTeleportA, EntranceTeleportB, 
+[Info   :LethalLevelLoader] Automatically Registered The Following SpawnablePrefab's In SewerFlow: SewerDoorway, SewerDoorwaySmall, 
+[Info   :LethalLevelLoader] Skipped Registering 3140 NetworkObjects As They Were Already Registered.
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
+[Info   :LethalExpansion(core)] Unloading scene: InitScene
+[Info   :LethalExpansion(core)] Loading scene 'MainMenu'
+[Info   :Buyable Shotgun] Scene "MainMenu" loaded with Single mode.
+[Error  :Clear First Person] PlayerHUDHelmetModel not found in the scene.
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
+[Info   :ainavt.lc.lethalconfig] 52 mods loaded: 1.Waga.JigglePhysicsPlugin;achohbee.RechargeRedux;ainavt.lc.lethalconfig;BiggerLobby;CameraCullingIncrease;com.github.lethalmods.lethalexpansioncore;com.github.tinyhoot.ShipLobby;com.github.tinyhoot.ShipLoot;com.rune580.LethalCompanyInputUtils;CustomSounds;FlipMods.TooManyEmotes;meow.ModelReplacementAPI;x753.More_Suits;dev.45x.45xanimemodels;LCSoundTool;DoomShotgun;Elliot.ShipAudioReplacement;evaisa.lethallib;FlipMods.ReservedItemSlotCore;evaisa.lethalthings;NicholaScott.BepInEx.RuntimeNetcodeRPCValidator;ExtraDaysToDeadline;FlipMods.ReservedFlashlightSlot;FlipMods.ReservedWalkieSlot;FlipMods.ReservedWeaponSlot;gravydevsupreme.xunity.autotranslator;gravydevsupreme.xunity.resourceredirector;imabatby.lethallevelloader;ImoutoSama.ScarletMansion;impulse.BetterTotalScrap;jos.BAModels;KoderTech.BoomboxController;LC_API;LCFartLizards;LethalAPI.Terminal;LethalClunk;Matsuura.HealthMetrics;MegaPiggy.BuyableShotgun;MegaPiggy.BuyableShotgunShells;Mhz.clearfirstperson;MiffyL.KillItWithShovel;Octolar.Healthstation;rr.Walkie;scoliosis.strangerthingsmod;ScoopysVarietyMod;Scopophobia;snowflake.plugin.russiantranslateterminal;Solar.Money;Stoneman.LethalProgression;sunnobunno.bonkhitsfx;sunnobunno.landminefartreverb;walterman.plugins.portalturrets
+[Info   :ainavt.lc.lethalconfig] Generated 25 mod entries.
+[Info   :ainavt.lc.lethalconfig] Generated 245 configs, of which 190 were missing and registered.
+[Info   :BiggerLobby] Setting max players to 16!
+[Info   :LethalExpansion(core)] Unloading scene: MainMenu
+[Info   :ImoutoSama.ScarletMansion] Fixed tie of bb flashlight
+[Info   :LethalExpansion(core)] Added scrap 'Wine bottle'
+[Info   :LethalExpansion(core)] Added scrap 'Traffic cone'
+[Info   :LethalExpansion(core)] Added scrap 'Fire hydrant'
+[Info   :LethalExpansion(core)] Added scrap 'Library lamp'
+[Info   :LethalExpansion(core)] Added scrap 'Suitcase'
+[Info   :LethalExpansion(core)] Added scrap 'Toaster'
+[Info   :LethalExpansion(core)] Added scrap 'Keyboard'
+[Info   :LethalExpansion(core)] Added scrap 'Fire extinguisher'
+[Info   :LethalExpansion(core)] Added scrap 'Fan'
+[Info   :LethalExpansion(core)] Added scrap 'Plant'
+[Info   :LethalExpansion(core)] Added scrap 'Bucket'
+[Info   :LethalExpansion(core)] Added scrap 'Plunger'
+[Info   :LethalExpansion(core)] Added scrap 'Clock'
+[Info   :LethalExpansion(core)] Added scrap 'Anvil'
+[Info   :LethalExpansion(core)] Added scrap 'Wrench'
+[Info   :LethalExpansion(core)] Added scrap 'Brick'
+[Info   :LethalExpansion(core)] Added scrap 'Jerrycan'
+[Info   :LethalExpansion(core)] Added scrap 'Fancy Painting'
+[Info   :LethalExpansion(core)] Added scrap 'Screwdriver'
+[Info   :LethalExpansion(core)] Added scrap 'Retro Toy'
+[Info   :LethalExpansion(core)] Added scrap 'Wheel'
+[Info   :LethalExpansion(core)] Added scrap 'Toolbox'
+[Info   :LethalExpansion(core)] Added scrap 'Watering Can'
+[Info   :LethalExpansion(core)] Added scrap 'Food can'
+[Info   :LethalExpansion(core)] Added scrap 'Fireaxe'
+[Info   :LethalExpansion(core)] Added scrap 'Baseball bat'
+[Info   :LethalExpansion(core)] Added scrap 'Beer can'
+[Info   :LethalExpansion(core)] Added scrap 'Can paint'
+[Info   :LethalExpansion(core)] Added scrap 'Sink'
+[Info   :LethalExpansion(core)] Added scrap 'Lantern'
+[Info   :LethalExpansion(core)] Added scrap 'Broken engine'
+[Info   :LethalExpansion(core)] Added scrap 'Vent'
+[Info   :LethalExpansion(core)] Added scrap 'Top hat'
+[Info   :LethalExpansion(core)] Added scrap 'Canteen'
+[Info   :LethalExpansion(core)] Added scrap 'Alcohol Flask'
+[Info   :LethalExpansion(core)] Added scrap 'Garbage'
+[Info   :LethalExpansion(core)] Added scrap 'Car battery'
+[Info   :LethalExpansion(core)] Added scrap 'Squeaky toy'
+[Info   :LethalExpansion(core)] Added scrap 'Gameboy'
+[Info   :LethalExpansion(core)] Added scrap 'Clamp'
+[Info   :LethalExpansion(core)] Added scrap 'Pliers'
+[Info   :LethalExpansion(core)] Added scrap 'Hammer'
+[Info   :LethalExpansion(core)] Added scrap 'Socket Wrench'
+[Info   :LethalExpansion(core)] Finished adding moons and scrap
+[Info   :ImoutoSama.ScarletMansion] Created helmet light for scarlet flashlight at index 3
+[Info   :ImoutoSama.ScarletMansion] Created helmet light for scarlet flashlight at index 4
+[Info   : LethalLib] Adding 4 unlockables to unlockables list
+[Info   : LethalLib] Adding 10 items to terminal
+[Info   :RuntimeNetcodeRPCValidator] Successfully added Networking to Terminal via Awake. Triggered by plugin ExtraDaysToDeadline
+[Info   :ImoutoSama.ScarletMansion] Properly read level2 dungeon flow to find values to reference
+[Info   :LethalLevelLoader] Creating ExtendedLevels For Vanilla SelectableLevels
+[Warning:LethalLevelLoader] Custom Dungeon: Scarlet Devil Mansion Is Missing A DungeonFirstTimeAudio Reference! Assigning Facility Audio To Prevent Errors.
+[Warning:LethalLevelLoader] Custom Dungeon: CastleFlow Is Missing A DungeonFirstTimeAudio Reference! Assigning Facility Audio To Prevent Errors.
+[Warning:LethalLevelLoader] Custom Dungeon: SewerFlow Is Missing A DungeonFirstTimeAudio Reference! Assigning Facility Audio To Prevent Errors.
+[Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedLevels:
+1. 41 Experimentation (Vanilla)
+2. 220 Assurance (Vanilla)
+3. 56 Vow (Vanilla)
+4. 71 Gordion (Vanilla)
+5. 61 March (Vanilla)
+6. 85 Rend (Vanilla)
+7. 7 Dine (Vanilla)
+8. 21 Offense (Vanilla)
+9. 8 Titan (Vanilla)
+10. 9 Celestria (Custom)
+11. 153 Maritopia (Custom)
+12. 33 EchoReach (Custom)
+
+[Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedDungeonFlows:
+1. Facility (Level1Flow) (Vanilla)
+2. Haunted Mansion (Level2Flow) (Vanilla)
+3. Facility (Level1FlowExtraLarge) (Vanilla)
+4. Scarlet Devil Mansion (SDMLevel) (Custom)
+5. CastleFlow (CastleFlow) (Custom)
+6. SewerFlow (SewerFlow) (Custom)
+
+[Info   :LethalExpansion(core)] Loading scene 'SampleSceneRelay'
+[Info   :Buyable Shotgun] Scene "SampleSceneRelay" loaded with Single mode.
+[Info   : LethalLib] Found 25 prefabs to fix
+[Info   :LethalExpansion(core)] Terminal reset.
+[Info   :LethalExpansion(core)] Finished updating terminal
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into quick menu...
+[Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_Start() Function To Prevent Conflicts
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (6) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (7) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (6) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (7) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: BreakerBoxHum Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (6) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (7) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (4) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (5) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (6) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (7) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (6) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (7) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (6) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (7) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: BreakerBoxHum Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (6) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] Audio Restoration Warning: HangingLight (7) Has Missing AudioMixerGroup
+[Warning:LethalLevelLoader] routeNode Is Missing! Using internal value!
+[Info   :LethalLevelLoader] Creating ExtendedLevelGroups
+[Info   :LethalLevelLoader] 41 Experimentation
+[Info   :LethalLevelLoader] 220 Assurance
+[Info   :LethalLevelLoader] 56 Vow
+[Info   :LethalLevelLoader] 21 Offense
+[Info   :LethalLevelLoader] 61 March
+[Info   :LethalLevelLoader] 85 Rend
+[Info   :LethalLevelLoader] 7 Dine
+[Info   :LethalLevelLoader] 8 Titan
+[Info   :ExtraDaysToDeadline] Buying rate recalculated
+[Info   :Lethal Progression] XP Network Behavior Made!
+[Info   :   Console] 144180041
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :ImoutoSama.ScarletMansion] IsServer: False
+[Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
+[Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
+[Info   :Lethal Progression] Loaded host config: XP Minimum = 40
+[Info   :Lethal Progression] Loaded host config: XP Maximum = 750
+[Info   :Lethal Progression] Loaded host config: Unspec in Ship Only = true
+[Info   :Lethal Progression] Loaded host config: Disable Unspec = false
+[Info   :Lethal Progression] Loaded host config: Health Regen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Health Regen Max Level = 20
+[Info   :Lethal Progression] Loaded host config: Health Regen Multiplier = 0.05
+[Info   :Lethal Progression] Loaded host config: Stamina Enabled = true
+[Info   :Lethal Progression] Loaded host config: Stamina Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Stamina Multiplier = 2
+[Info   :Lethal Progression] Loaded host config: Battery Life Enabled = true
+[Info   :Lethal Progression] Loaded host config: Battery Life Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Battery Life Multiplier = 5
+[Info   :Lethal Progression] Loaded host config: Hand Slots Enabled = true
+[Info   :Lethal Progression] Loaded host config: Hand Slots Max Level = 30
+[Info   :Lethal Progression] Loaded host config: Hand Slots Multiplier = 10
+[Info   :Lethal Progression] Loaded host config: Loot Value Enabled = true
+[Info   :Lethal Progression] Loaded host config: Loot Value Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Loot Value Multiplier = 0.25
+[Info   :Lethal Progression] Loaded host config: Oxygen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Oxygen Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Oxygen Multiplier = 1
+[Info   :Lethal Progression] HP Regen check 1
+[Info   :Lethal Progression] Creating button for HPR
+[Info   :Lethal Progression] Setup passed!
+[Info   :Lethal Progression] Added to skill list..
+[Info   :Lethal Progression] Creating button for STM
+[Info   :Lethal Progression] Setup passed!
+[Info   :Lethal Progression] Added to skill list..
+[Info   :Lethal Progression] Creating button for BAT
+[Info   :Lethal Progression] Setup passed!
+[Info   :Lethal Progression] Added to skill list..
+[Info   :Lethal Progression] Creating button for VAL
+[Info   :Lethal Progression] Setup passed!
+[Info   :Lethal Progression] Added to skill list..
+[Info   :Lethal Progression] Creating button for OXY
+[Info   :Lethal Progression] Setup passed!
+[Info   :Lethal Progression] Added to skill list..
+[Info   :Lethal Progression] Setting team value hud to 0
+[Info   :TooManyEmotes-1.9.1] Initializing local player.
+[Info   :TooManyEmotes-1.9.1] Requesting config sync from server
+[Info   :ReservedItemSlotCore-1.8.17] Requesting sync with server.
+[Info   :ImoutoSama.ScarletMansion] Send message to client 0 with title SDMansion_OnRequestConfigSync and flag Reliable
+[Info   :ExtraDaysToDeadline] Setup extra day price for player, 891
+[Info   :ExtraDaysToDeadline] Deadline sync
+[Info   :ExtraDaysToDeadline] Deadline sync
+[Info   :TooManyEmotes-1.9.1] Receiving config sync from server.
+[Info   :TooManyEmotes-1.9.1] Resetting progression.
+[Info   :TooManyEmotes-1.9.1] Resetting unlocked emotes.
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync from server.
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Pro-flashlight Prio: 120
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Flashlight Prio: 120
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Laser pointer Prio: 120
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Walkie-talkie Prio: 100
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Shotgun Prio: 70
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Zap gun Prio: 70
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Stun grenade Prio: 70
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Homemade flashbang Prio: 70
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Rocket Launcher Prio: 70
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Flaregun Prio: 70
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Revolver Prio: 70
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Shovel Prio: 70
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Stop sign Prio: 70
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Yield sign Prio: 70
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Toy Hammer Prio: 70
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Australium Shovel Prio: 70
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Ammo Prio: -20
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Shells Prio: -20
+[Info   :ReservedItemSlotCore-1.8.17] Receiving sync for item: - Item: Emergency Flare (ammo) Prio: -20
+[Info   :ReservedItemSlotCore-1.8.17] Received sync for 4 reserved item slots. (19 items total)
+[Info   :MiffyL.KillItWithShovel] Successfully synced config with host.
+[Info   : LethalLib] Successfully synced config with host.
+[Info   :   Console] 144311113
+[Info   :TooManyEmotes-1.9.1] Sending sync request to server.
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :TooManyEmotes-1.9.1] Resetting progression.
+[Info   :TooManyEmotes-1.9.1] Resetting unlocked emotes.
+[Info   :TooManyEmotes-1.9.1] Rotating emote selection in store. Seed: 453617457
+[Info   :TooManyEmotes-1.9.1] Rotate new emote value: 0,221143759890061
+[Info   :TooManyEmotes-1.9.1] Rotate new emote value: 0,96498376082861
+[Info   :TooManyEmotes-1.9.1] Rotate new emote value: 0,482003849224189
+[Info   :TooManyEmotes-1.9.1] Rotate new emote value: 0,944958426963984
+[Info   :TooManyEmotes-1.9.1] Rotate new emote value: 0,350200044619944
+[Info   :TooManyEmotes-1.9.1] Rotate new emote value: 0,304112678069674
+[Info   :TooManyEmotes-1.9.1] Receiving sync from server. CurrentEmoteCredits: 5700 EmoteStoreSeed: 453617457 NumEmotes: 213
+[Info   :TooManyEmotes-1.9.1] Received sync from server.
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :ReservedItemSlotCore-1.8.17] Finalizing sync with server. New hotbar size: 8
+[Info   :ReservedItemSlotCore-1.8.17] Adding 4 reserved item slots to the inventory HUD. Previous inventory HUD size: 4
+[Info   :ReservedItemSlotCore-1.8.17] Adding Reserved item slot for item types [Pro-flashlight]. Inventory index: 4
+[Info   :ReservedItemSlotCore-1.8.17] Adding Reserved item slot for item types [Walkie-talkie]. Inventory index: 5
+[Info   :ReservedItemSlotCore-1.8.17] Adding Reserved item slot for item types [Shotgun]. Inventory index: 6
+[Info   :ReservedItemSlotCore-1.8.17] Adding Reserved item slot for item types [Ammo]. Inventory index: 7
+[Info   :ReservedItemSlotCore-1.8.17] Finished adding 4 Reserved Item slots in the inventory HUD.
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (1) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (1) Item: Pro-flashlight Switching to previous slot: 1
+[Warning:Lethal Company API] Player #4 responded with these mods:
+1.Waga.JigglePhysicsPlugin
+achohbee.RechargeRedux
+ainavt.lc.lethalconfig
+BiggerLobby
+CameraCullingIncrease
+com.github.lethalmods.lethalexpansioncore
+com.github.tinyhoot.ShipLobby
+com.github.tinyhoot.ShipLoot
+com.rune580.LethalCompanyInputUtils
+CustomSounds
+FlipMods.TooManyEmotes
+meow.ModelReplacementAPI
+x753.More_Suits
+dev.45x.45xanimemodels
+LCSoundTool
+DoomShotgun
+Elliot.ShipAudioReplacement
+evaisa.lethallib
+FlipMods.ReservedItemSlotCore
+evaisa.lethalthings
+NicholaScott.BepInEx.RuntimeNetcodeRPCValidator
+ExtraDaysToDeadline
+FlipMods.ReservedFlashlightSlot
+FlipMods.ReservedWalkieSlot
+FlipMods.ReservedWeaponSlot
+gravydevsupreme.xunity.autotranslator
+gravydevsupreme.xunity.resourceredirector
+imabatby.lethallevelloader
+ImoutoSama.ScarletMansion
+impulse.BetterTotalScrap
+jos.BAModels
+KoderTech.BoomboxController
+LC_API
+LCFartLizards
+LethalAPI.Terminal
+LethalClunk
+Matsuura.HealthMetrics
+MegaPiggy.BuyableShotgun
+MegaPiggy.BuyableShotgunShells
+Mhz.clearfirstperson
+MiffyL.KillItWithShovel
+Octolar.Healthstation
+rr.Walkie
+scoliosis.strangerthingsmod
+ScoopysVarietyMod
+Scopophobia
+snowflake.plugin.russiantranslateterminal
+Solar.Money
+Stoneman.LethalProgression
+sunnobunno.bonkhitsfx
+sunnobunno.landminefartreverb
+walterman.plugins.portalturrets
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (1) Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (1) Item: Walkie-talkie Switching to previous slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :BoomboxController] True startmusic
+[Info   :LethalExpansion(core)] Loading scene 'Level6Dine'
+[Info   :LethalExpansion(core)] Disabled TerrainFixer
+[Info   :Buyable Shotgun] Scene "Level6Dine" loaded with Additive mode.
+[Info   :LethalLevelLoader] Setting Random DungeonFlows!
+[Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_GenerateNewFloor() Function To Prevent Conflicts
+[Info   :ImoutoSama.ScarletMansion] Disabling SDM logic
+[Info   :LethalLevelLoader] Fire Exit Patch Report, Details Below;
+
+EntranceTeleport's Found, Dine Contains 2 Entrances! ( 1 Fire Escapes) 
+Main Entrance: EntranceTeleportA (Entrance ID: 0) (Dungeon ID: 1)
+Alternate Entrance: EntranceTeleportB (Entrance ID: 1) (Dungeon ID: 1)
+Found Fire Escape GlobalProp: (ID: 1231), Modifying Spawnrate Count From (1,1) To (1,1)
+
+
+[Info   :LethalLevelLoader] Created New Day History Log! PlanetName: Dine , DungeonName: Haunted Mansion , Quota: 0 , Day: 1 , Weather: Flooded
+[Info   :LethalLevelLoader] PreProcessing
+[Info   :LethalLevelLoader] MainPath
+[Info   :LethalLevelLoader] Branching
+[Info   :LethalLevelLoader] PostProcessing
+[Info   :LethalLevelLoader] Complete
+[Info   :StrangerThingsMod] Adding colliders to lights
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 10
+[Info   :BoomboxController] False startmusic
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Shovel
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Shovel
+[Info   :ReservedItemSlotCore-1.8.17] Beginning grab on reserved item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (2) Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 2 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 6 Slot: 4
+[Info   :BoomboxController] True startmusic
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 2 OldIndex: 6 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 6 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 1 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 6 Slot: 4
+[Info   :BoomboxController] False startmusic
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 1 OldIndex: 5 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 6 Slot: 1
+[Info   :Lethal Progression] 5 change, 5 new stamina points, Adding 1,1 resulting in 12,1 stamina
+[Info   :BoomboxController] True startmusic
+[Info   :Lethal Progression] 5 change, 10 new stamina points, Adding 1,1 resulting in 13,2 stamina
+[Info   :Lethal Progression] 5 change, 15 new stamina points, Adding 1,1 resulting in 14,3 stamina
+[Info   :Lethal Progression] 5 change, 20 new stamina points, Adding 1,1 resulting in 15,4 stamina
+[Info   :Lethal Progression] 5 change, 25 new stamina points, Adding 1,1 resulting in 16,5 stamina
+[Info   :Lethal Progression] 5 change, 30 new stamina points, Adding 1,1 resulting in 17,6 stamina
+[Info   :Lethal Progression] 5 change, 35 new stamina points, Adding 1,1 resulting in 18,7 stamina
+[Info   :Lethal Progression] 5 change, 40 new stamina points, Adding 1,1 resulting in 19,8 stamina
+[Info   :Lethal Progression] 5 change, 45 new stamina points, Adding 1,1 resulting in 20,9 stamina
+[Info   :Lethal Progression] 5 change, 50 new stamina points, Adding 1,1 resulting in 22 stamina
+[Info   :Lethal Progression] 5 change, 55 new stamina points, Adding 1,1 resulting in 23,1 stamina
+[Info   :Lethal Progression] 5 change, 60 new stamina points, Adding 1,1 resulting in 24,2 stamina
+[Info   :Lethal Progression] 5 change, 65 new stamina points, Adding 1,1 resulting in 25,3 stamina
+[Info   :Lethal Progression] 5 change, 70 new stamina points, Adding 1,1 resulting in 26,40001 stamina
+[Info   :Lethal Progression] 5 change, 75 new stamina points, Adding 1,1 resulting in 27,50001 stamina
+[Info   :Lethal Progression] 5 change, 80 new stamina points, Adding 1,1 resulting in 28,60001 stamina
+[Info   :Lethal Progression] 5 change, 85 new stamina points, Adding 1,1 resulting in 29,70001 stamina
+[Info   :Lethal Progression] 5 change, 90 new stamina points, Adding 1,1 resulting in 30,80001 stamina
+[Info   :Lethal Progression] 5 change, 95 new stamina points, Adding 1,1 resulting in 31,90001 stamina
+[Info   :Lethal Progression] 5 change, 100 new stamina points, Adding 1,1 resulting in 33,00001 stamina
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 10
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 9
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 9
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Homemade flashbang
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player Item: Homemade flashbang Switching to previous slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 0
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :ReservedItemSlotCore-1.8.17] Focusing reserved hotbar slots. NewIndex: 5 OldIndex: 3 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 6 Slot: 5
+[Info   :   Console] PLAYER TAKE DAMAGE  NikW
+[Info   :   Console] PLAYER TAKE DAMAGE  NikW
+[Info   :ReservedItemSlotCore-1.8.17] Unfocusing reserved hotbar slots. NewIndex: 3 OldIndex: 4 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] Sending OnSwapReservedHotbar update to server. Hotbar slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 6 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 1
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedWalkieSlot-1.6.2] Speaking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 0
+[Info   :ReservedWalkieSlot-1.6.2] Not talking into walkie
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 3
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player Item: Pro-flashlight Switching to previous slot: 0
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Info   :Lethal Progression] 2 players, 0 quotas, 40 initial cost, 70 person value, 0 quota value, 110 total cost.
+[Warning:TooManyEmotes-1.9.1] Player died while emoting. What a loser... I mean, I hope this handles smoothly.
+[Info   :   Console] PLAYER DEATH NikW 
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (1) Item: Pro-flashlight
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (1) Item: Pro-flashlight Switching to previous slot: 1
+[Info   :ReservedItemSlotCore-1.8.17] On update inventory size for player: Player (1) - Old hotbar size: 8 - New hotbar size: 11
+[Info   :ReservedItemSlotCore-1.8.17] OnUpdateInventorySize C for player: Player (1) NewReservedItemsStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (1) Item: Stun grenade
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player (1) Item: Stun grenade Switching to previous slot: 8
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 8
+[Warning:ReservedItemSlotCore-1.8.17] OnGrabReservedItem SlotFilled. Player: Player Item: Pro-flashlight Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player Item: Walkie-talkie Switching to previous slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 8
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 8
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Toy Hammer
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player Item: Toy Hammer Switching to previous slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 4 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] On update inventory size for player: Player (1) - Old hotbar size: 11 - New hotbar size: 8
+[Info   :ReservedItemSlotCore-1.8.17] OnUpdateInventorySize C for player: Player (1) NewReservedItemsStartIndex: 4
+[Info   :   Console] PLAYER TAKE DAMAGE  Batya
+[Info   :   Console] PLAYER DEATH Batya 
+[Info   :LethalExpansion(core)] Unloading scene: Level6Dine
+[Info   :BiggerLobby] Adding EXPANDED stats!
+[Info   :LethalThings] Dead players: 3
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 4
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Walkie-talkie
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player Item: Walkie-talkie Switching to previous slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player (1) Item: Shovel
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] On update inventory size for player: Player - Old hotbar size: 8 - New hotbar size: 11
+[Info   :ReservedItemSlotCore-1.8.17] OnUpdateInventorySize C for player: Player NewReservedItemsStartIndex: 4
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem for Player: Player Item: Stun grenade
+[Info   :ReservedItemSlotCore-1.8.17] OnGrabReservedItem completed. Player: Player Item: Stun grenade Switching to previous slot: 2
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 5
+[Info   :ReservedItemSlotCore-1.8.17] Receiving OnSwapReservedHotbar update from client. ClientId: 0 Slot: 1
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :   Console] 144311113
+[Info   :ReservedItemSlotCore-1.8.17] On update inventory size for player: Player - Old hotbar size: 11 - New hotbar size: 8
+[Info   :ReservedItemSlotCore-1.8.17] OnUpdateInventorySize C for player: Player NewReservedItemsStartIndex: 4
+[Info   :LethalExpansion(core)] Unloading scene: SampleSceneRelay
+[Info   :LethalExpansion(core)] Loading scene 'MainMenu'
+[Info   :Buyable Shotgun] Scene "MainMenu" loaded with Single mode.
+[Error  :Clear First Person] PlayerHUDHelmetModel not found in the scene.
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
