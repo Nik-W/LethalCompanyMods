@@ -1,17 +1,21 @@
 Game Version: 49
-Plugins: 52
+Plugins: 64
 1.Waga.JigglePhysicsPlugin E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\JigglePhysicsPlugin.dll
 achohbee.RechargeRedux E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\RechargeRedux.dll
 ainavt.lc.lethalconfig E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\LethalConfig\LethalConfig.dll
 BiggerLobby E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\BiggerLobby.dll
 CameraCullingIncrease E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\CameraCullingIncrease.dll
+com.rune580.LethalCompanyInputUtils E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\LethalCompanyInputUtils\LethalCompanyInputUtils.dll
+FlipMods.TooManyEmotes E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\TooManyEmotes.dll
+meow.ModelReplacementAPI E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\ModelReplacementAPI.dll
+claygain.Johnny_Silverhand E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\2077_Johnny_Silverhand.dll
 com.github.lethalmods.lethalexpansioncore E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\LethalExpansionCore.dll
 com.github.tinyhoot.ShipLobby E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\ShipLobby\ShipLobby.dll
 com.github.tinyhoot.ShipLoot E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\ShipLoot.dll
-com.rune580.LethalCompanyInputUtils E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\LethalCompanyInputUtils\LethalCompanyInputUtils.dll
+com.nia.lulu_sport E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\shizukululu_sport.dll
+com.nia.lulu01 E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\shizukululu_pinkdress.dll
+com.nia.lulu03 E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\shizukululu_idolskirt.dll
 CustomSounds E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\CustomSounds.dll
-FlipMods.TooManyEmotes E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\TooManyEmotes.dll
-meow.ModelReplacementAPI E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\ModelReplacementAPI.dll
 x753.More_Suits E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MoreSuits.dll
 dev.45x.45xanimemodels E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\45x Anime Models.dll
 LCSoundTool E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\LC_SoundTool.dll
@@ -25,13 +29,18 @@ ExtraDaysToDeadline E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugi
 FlipMods.ReservedFlashlightSlot E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\ReservedFlashlightSlot.dll
 FlipMods.ReservedWalkieSlot E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\ReservedWalkieSlot.dll
 FlipMods.ReservedWeaponSlot E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\ReservedWeaponSlot.dll
+genshin.arlecchino.playermodel E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Arle.dll
+genshin.keqing.playermodel E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Keqing.dll
+genshin.skirk.playermodel E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Skirk.dll
 gravydevsupreme.xunity.autotranslator E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\XUnity.AutoTranslator\XUnity.AutoTranslator.Plugin.BepInEx.dll
 gravydevsupreme.xunity.resourceredirector E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\XUnity.ResourceRedirector\XUnity.ResourceRedirector.BepInEx.dll
+grug.lethalcompany.fogremover E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\FogRemover.dll
 imabatby.lethallevelloader E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\LethalLevelLoader.dll
 ImoutoSama.ScarletMansion E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\ScarletMansion.dll
 impulse.BetterTotalScrap E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\BetterTotalScrap.dll
 jos.BAModels E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\BAModels.dll
 KoderTech.BoomboxController E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\BoomboxController.dll
+Konpat.TooManyItems E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Too many Items.dll
 LC_API E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\LC_API.dll
 LCFartLizards E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\LCFartLizards.dll
 LethalAPI.Terminal E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\LethalAPI.Terminal.dll
@@ -41,14 +50,17 @@ MegaPiggy.BuyableShotgun E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\
 MegaPiggy.BuyableShotgunShells E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\BuyableShotgunShells.dll
 Mhz.clearfirstperson E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\ClearFirstPersonMod.dll
 MiffyL.KillItWithShovel E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\KillItWithShovel.dll
+MV.NicerTeleporters E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\NicerTeleporters.dll
 Octolar.Healthstation E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\OctolarFirstMod.dll
 rr.Walkie E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Walkie.dll
 scoliosis.strangerthingsmod E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\StrangerThingsMod.dll
 ScoopysVarietyMod E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\ScoopysVarietyMod\ScoopysVarietyMod.dll
 Scopophobia E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Scopophobia.dll
+SCPCBDunGen E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\SCPCBDunGen\SCPCBDunGen.dll
 snowflake.plugin.russiantranslateterminal E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\RussianTranslateTerminal.dll
 Solar.Money E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\SolarMoneyMenuV1.4.4.dll
 Stoneman.LethalProgression E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\LethalProgression.dll
 sunnobunno.bonkhitsfx E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\BonkHitSFX.dll
 sunnobunno.landminefartreverb E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\LandMineFartReverb.dll
+VoodooEnemy E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\VoodooEnemy\VoodooEnemy.dll
 walterman.plugins.portalturrets E:\Games\Steam\steamapps\common\Lethal Company\BepInEx\plugins\PortalTurrets.dll
