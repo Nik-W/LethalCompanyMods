@@ -1,0 +1,10 @@
+/*
+!.gitignore
+!/BepInEx
+!/BoomboxController
+/BoomboxController/other/ffmpeg.exe
+/BepInEx/plugins/BAModels.dll
+/BepInEx/plugins/LethalBundles/celestriascene.lethalbundle
+BepInEx/plugins/shizukululu_idolskirt.dll
+BepInEx/plugins/shizukululu_pinkdress.dll
+BepInEx/plugins/shizukululu_sport.dll
